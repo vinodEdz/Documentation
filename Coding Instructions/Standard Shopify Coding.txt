@@ -1,0 +1,17 @@
+
+ALL work must be committed to Github / make a commit after you finish working on a file or a feature - this will make troubleshooting easier than if you were to commit once a day
+
+Use Shopify Theme Kit- do not work in the browser
+
+Coding Notes
+1. Section and comment CSS carefully
+2. Use the existing grid styles (start on line 941 of theme.scss.liquid) - more information on grid styles found at https://shopify.github.io/Timber/#grid
+3. DO NOT include inline styles - all styles must go in custom.scss
+4. DO NOT use !important
+5. DO NOT float elements, use the grid styles to position them
+
+
+
+
+
+
